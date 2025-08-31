@@ -1,0 +1,26 @@
+# NetBeans generados (no versionar)
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/ant-deploy.xml
+/web/META-INF/context.xml
+
+
+# Salidas de compilación
+/build/
+/dist/
+**/*.class
+*.log
+*.tmp
+
+# Otros IDE
+/.idea/
+*.iml
+/.vscode/
+/.settings/
+/.classpath
+/.project
+
+# SO
+.DS_Store
+Thumbs.db
